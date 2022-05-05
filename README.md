@@ -9,3 +9,4 @@ Left Player W - To move up, S - To move down
 
 Right Player Arrow Key Up - To move up - Arrow key down to move down.
 
+test it here! - http://server.colebolebole.tk/storage/htmls/pong.html
